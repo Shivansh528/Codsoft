@@ -86,11 +86,11 @@ Student-Grade-Calculator/
 
 | Percentage Range | Grade | Message                               |
 | ---------------- | ----- | ------------------------------------- |
-| 90% and above    | A     | 🌟 Excellent performance! Keep it up! |
-| 75% - 89%        | B     | 👍 Good job! Aim for an A next time.  |
-| 60% - 74%        | C     | 🙂 Fair effort! Focus to improve.     |
-| 40% - 59%        | D     | ⚠️ Passed but needs more practice.    |
-| Below 40%        | F     | ❌ Failed. Study harder next time.     |
+| 90% and above    | A     |  Excellent performance! Keep it up! |
+| 75% - 89%        | B     |  Good job! Aim for an A next time.  |
+| 60% - 74%        | C     |  Fair effort! Focus to improve.     |
+| 40% - 59%        | D     |  Passed but needs more practice.    |
+| Below 40%        | F     |  Failed. Study harder next time.     |
 
 
 ## Example Output
