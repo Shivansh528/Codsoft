@@ -96,7 +96,8 @@ Student-Grade-Calculator/
 ## Example Output
 
 
-<img width="436" height="341" alt="Screenshot 2025-08-04 201505" src="https://github.com/user-attachments/assets/3c082727-e93c-4a15-9240-e528d45c8039" />
+<img width="436" height="310" alt="Screenshot 2025-08-04 201505" src="https://github.com/user-attachments/assets/b8cf9a04-1aa4-405d-8f98-6bee2cacd51f" />
+
 
 
 
