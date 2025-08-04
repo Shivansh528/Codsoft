@@ -89,7 +89,6 @@ class ATM {
     }
 }
 
-// Main class to run the ATM program
 public class ATMInterface {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -108,3 +107,4 @@ public class ATMInterface {
         sc.close();
     }
 }
+
